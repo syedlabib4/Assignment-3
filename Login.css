@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+img{
+    margin-bottom: 50px;
+}
+
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.submitNreset{
+    display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+input{
+    margin: 5px;
+}
+
+.z{
+    margin-left:20px ;
+}
+
+
+
+
+
+.back {
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+  
+}

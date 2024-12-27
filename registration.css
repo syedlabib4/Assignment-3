@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.img{
+     
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+ }
+
+
+h1{
+        display: flex;
+        justify-content: center;
+        align-items: center;    
+}
+
+
+body{
+   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+
+
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+input,textarea,select,table{
+    margin-left:  100px;  
+}
+
+
+
+
+.submitNreset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.back {
+    position: absolute; /* Position it relative to the screen */
+    top: 10px; /* Add some spacing from the top */
+    left: 10px; /* Add some spacing from the left */
+  
+}
